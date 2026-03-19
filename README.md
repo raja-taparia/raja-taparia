@@ -38,7 +38,7 @@ A LangGraph-based multi-agent compliance copilot designed for highly regulated e
 * **How it works:** Integrates Retrieval-Augmented Generation (RAG) based workflows to automate complex enterprise reporting and analytics.
 * **Impact:** Demonstrates how to accelerate complex analytics deployment times by 40% while maintaining absolute auditability and strict enterprise safety guardrails.
 
-#### 3. [Multi-Modal RAG Video & Document Chatbot](https://github.com/raja-taparia/rag-video-chatbot/blob/main/README.md)
+#### 3. [Multi-Modal RAG Video & Document Chatbot](https://github.com/raja-taparia/rag-video-chatbot)
 An end-to-end Retrieval-Augmented Generation (RAG) system that allows users to query complex video transcripts and PDF documents using natural language.
 * **How it works:** Orchestrates a complete data ingestion pipeline utilizing OpenAI Whisper for transcription and intelligent, pause-aware chunking. Computes embeddings via Sentence-Transformers/Ollama, stores them in Qdrant, and serves answers through a FastAPI backend.
 * **Impact:** Demonstrates advanced AI architecture capable of unlocking actionable insights from unstructured, multi-modal media. Highlights deep expertise in vector search orchestration, reciprocal rank fusion (RRF), and building privacy-first GenAI applications.
