@@ -16,7 +16,7 @@
 
 I am a senior Data, Analytics, and AI leader with over two decades of experience operating at the intersection of complex systems architecture and high-level commercial strategy. I specialize in turning ambiguous enterprise requirements into highly governed, automated data foundations that empower organizations to make rapid, data-driven decisions at scale.
 
-Throughout my career, spanning roles as Head of Data, Analytics & AI Platforms at Aon and Head of Data Engineering for Europe at Evalueserve, I have successfully guided technology roadmaps, scaled engineering practices to 110+ members, and managed global client portfolios exceeding $5 million. Backed by an Executive MBA from HEC Paris, my work proves that the most successful technology deployments seamlessly align architectural purity with measurable business impact.
+Throughout my career, spanning roles as Head of Data roles at Evalueserve and Aon, I have successfully guided technology roadmaps, scaled engineering practices and managed global client portfolios. Backed by an Executive MBA from HEC Paris, my work proves that the most successful technology deployments seamlessly align architectural purity with measurable business impact.
 
 ## 💡 Core Architectural Focus
 
@@ -80,7 +80,7 @@ A comprehensive framework engineered to enforce data reliability and establish a
 
 **Business Impact:** Eradicates downstream data incidents by automating Service Level Objective (SLO) validation. Features a centralized governance registry that manages subscriber access, ensuring engineering hours are spent on product development rather than reactive pipeline triage.
 
-### 2. 🤖 [crafty-platform](https://github.com/raja-taparia/crafty-platform)
+### 2. 🤖 [crafty-platform](https://github.com/raja-taparia/crafty-platform) - Private Repo
 
 An AI-powered, omnichannel agentic workspace designed from the ground up to act as an autonomous digital assistant for trades businesses.
 
