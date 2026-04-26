@@ -1,6 +1,6 @@
 # 🚀 Sunny Taparia
 
-**Principal Data & AI Architect | Executive Technologist | HEC Paris EMBA**
+** Builder | Designer | Architect | Founder | Former Head of Data & AI | Executive Technologist | HEC Paris EMBA**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sunnytaparia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
